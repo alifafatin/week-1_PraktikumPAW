@@ -42,12 +42,12 @@ const MSME_CATEGORIES: MsmeCategory[] = [
       "Daftarkan NIB (Nomor Induk Berusaha) gratis lewat HP agar usaha resmi diakui pemerintah.",
       "Buat profil usaha di Google Maps agar warga sekitar mudah menemukan toko Anda.",
     ],
-    color: {
-      bg: "bg-emerald-50",
-      border: "border-emerald-200",
-      text: "text-emerald-900",
-      accent: "bg-emerald-600 hover:bg-emerald-700",
-      badgeBg: "bg-emerald-100 text-emerald-800",
+   color: {
+      bg: "bg-cyan-50",
+      border: "border-cyan-200",
+      text: "text-cyan-900",
+      accent: "bg-cyan-600 hover:bg-cyan-700",
+      badgeBg: "bg-cyan-100 text-cyan-800",
     },
   },
   {
@@ -71,11 +71,11 @@ const MSME_CATEGORIES: MsmeCategory[] = [
       "Manfaatkan platform kurir instan & marketplace untuk menjangkau pembeli luar kota.",
     ],
     color: {
-      bg: "bg-blue-50",
-      border: "border-blue-200",
-      text: "text-blue-900",
-      accent: "bg-blue-600 hover:bg-blue-700",
-      badgeBg: "bg-blue-100 text-blue-800",
+      bg: "bg-amber-50",
+      border: "border-amber-200",
+      text: "text-amber-900",
+      accent: "bg-amber-600 hover:bg-amber-700",
+      badgeBg: "bg-amber-100 text-amber-800",
     },
   },
   {
